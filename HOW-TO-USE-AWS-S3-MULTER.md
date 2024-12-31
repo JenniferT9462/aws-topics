@@ -3,7 +3,6 @@
 ## Overview
 
 This project demonstrates how to integrate AWS S3 with an Express application using Multer. We will create an API that allows users to upload files to an S3 bucket and retrieve them. This is a common use case for applications that require file storage and retrieval.
-Prerequisites
 
 ## Before you begin, ensure you have the following:
 - An active AWS account. [AWS Console](https://aws.amazon.com/)
